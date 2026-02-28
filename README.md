@@ -50,4 +50,13 @@ department_id
 This is the most important file.
 
 It tells which product was added in which order.
+
+**Level 2 – Apriori Recommendation**
+This notebook improves the recommendation system using
+Apriori Algorithm to generate association rules between products.
+
+Example:
+
+If user buys → Pizza
+Recommend → Coke, Garlic Bread
  
