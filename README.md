@@ -97,22 +97,14 @@ Because food tastes better with friends (and by friends we mean side dishes 😌
 
 We created a synthetic dataset of 50 orders that mimics food delivery behaviour.
 
-Columns include:
-
-Column	Meaning
-user_id,	unique user
-city	city where order placed
-order_time	morning / lunch / evening / night
-restaurant_type	type of restaurant
-item_ordered	main item
-cart_size	number of items in cart
-recommended_item	suggested add-on
-
 Example:
 
-user_id	city	time	item	cart_size	recommendation
-user_1	Delhi	lunch	pizza	1	coke
+user_id	city	time	item	cart_size	recommendation  
+user_1	Delhi	lunch	pizza	1	coke 
+
 user_2	Mumbai	evening	burger	2	fries
+
+
 ⚙️ How the Recommendation Works
 
 The system follows simple rules.
@@ -133,24 +125,15 @@ cart_size >= 3 ➜ Dessert
 Because if you're already ordering a lot…
 why not add dessert too? 🍰
 
-🧪 Technologies Used
 
-🐍 Python
-
-📊 Pandas
-
-📓 Jupyter Notebook
-
-🚀 Example Prediction
-
-Input:
+**Input:**
 
 City: Delhi
 Time: Evening
 Item Ordered: Pizza
 Cart Size: 1
 
-Output:
+**Output:**
 
 Recommended Item → Coke
 
@@ -158,7 +141,7 @@ The system basically says:
 
 “Hey… you forgot the drink 🥤”
 
-🌍 Real World Inspiration
+**🌍 Real World Inspiration**
 
 Food delivery platforms like:
 
@@ -200,7 +183,55 @@ If someone orders Pizza without Coke…
 
 Our system politely whispers:
 
-“Are you sure about that decision?” 😏
+“Are you sure about that decision?” 😏  
+
+**🆕 New User Recommendation (Cold Start Problem)**
+
+When a new user logs in, the system has no order history to understand their preferences.
+
+This is called the Cold Start Problem in recommendation systems.
+
+Since the system doesn't know the user's taste yet, it recommends popular food combinations ordered by other users.
+
+Food delivery platforms like Zomato often use this strategy to quickly engage new users.
+
+**🍔 Recommendation Strategy**
+
+The system follows a popularity-based recommendation approach.
+
+Steps:
+
+1️⃣ User logs into the platform
+2️⃣ System checks if the user has previous orders
+3️⃣ If no order history exists, the system selects the most popular food combos
+4️⃣ Top combos are shown as recommendations
+
+Example logic:
+
+If user_history == empty:
+    recommend top popular combos
+📊 Dataset
+
+The dataset contains synthetic food delivery order data used to identify popular combos.
+
+Example:
+
+City	Combo	Popularity
+Delhi	Pizza + Coke	420
+Mumbai	Burger + Fries	380
+Bangalore	Dosa + Filter Coffee	300
+**🧠 Recommendation Logic**
+
+The system ranks combos using popularity score.
+
+Example recommendations:
+
+1️⃣ Pizza + Coke
+2️⃣ Burger + Fries
+3️⃣ Biryani + Raita
+
+These combos are recommended to new users with no past order data.
+
 
 
  
