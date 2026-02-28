@@ -1,0 +1,51 @@
+user_id,city,order_time,restaurant_type,item_ordered,cart_size,recommended_item
+user_1,Mumbai,lunch,fastfood,burger,4,fries
+user_2,Mumbai,night,south indian,dosa,1,ice cream
+user_3,Delhi,lunch,pizza,pizza,3,coke
+user_4,Mumbai,night,indian,biryani,1,raita
+user_5,Bangalore,night,fastfood,burger,3,fries
+user_6,Mumbai,night,south indian,dosa,4,dessert
+user_7,Mumbai,night,pizza,pizza,1,coke
+user_8,Mumbai,morning,indian,biryani,3,raita
+user_9,Delhi,morning,fastfood,burger,3,fries
+user_10,Mumbai,night,indian,biryani,4,raita
+user_11,Bangalore,morning,south indian,dosa,3,coffee
+user_12,Bangalore,morning,fastfood,burger,2,fries
+user_13,Delhi,lunch,south indian,dosa,2,ice cream
+user_14,Mumbai,lunch,pizza,pizza,3,coke
+user_15,Bangalore,morning,fastfood,burger,4,fries
+user_16,Bangalore,evening,indian,biryani,3,raita
+user_17,Mumbai,night,fastfood,burger,4,fries
+user_18,Mumbai,night,pizza,pizza,3,coke
+user_19,Delhi,night,pizza,pizza,2,coke
+user_20,Delhi,night,fastfood,burger,1,fries
+user_21,Bangalore,night,south indian,dosa,3,dessert
+user_22,Mumbai,lunch,pizza,pizza,2,coke
+user_23,Delhi,night,south indian,dosa,1,ice cream
+user_24,Mumbai,lunch,indian,biryani,2,raita
+user_25,Delhi,lunch,indian,biryani,3,raita
+user_26,Mumbai,lunch,indian,biryani,1,raita
+user_27,Mumbai,lunch,indian,biryani,3,raita
+user_28,Bangalore,lunch,south indian,dosa,4,dessert
+user_29,Mumbai,lunch,south indian,dosa,2,ice cream
+user_30,Mumbai,night,fastfood,burger,3,fries
+user_31,Bangalore,evening,south indian,dosa,1,ice cream
+user_32,Bangalore,lunch,pizza,pizza,3,coke
+user_33,Mumbai,evening,pizza,pizza,2,coke
+user_34,Mumbai,night,fastfood,burger,4,fries
+user_35,Mumbai,night,indian,biryani,4,raita
+user_36,Bangalore,lunch,pizza,pizza,1,coke
+user_37,Delhi,lunch,south indian,dosa,3,dessert
+user_38,Mumbai,morning,fastfood,burger,2,fries
+user_39,Delhi,night,fastfood,burger,1,fries
+user_40,Delhi,morning,fastfood,burger,4,fries
+user_41,Mumbai,night,pizza,pizza,1,coke
+user_42,Bangalore,night,indian,biryani,1,raita
+user_43,Mumbai,night,south indian,dosa,4,dessert
+user_44,Bangalore,evening,fastfood,burger,4,fries
+user_45,Mumbai,evening,fastfood,burger,2,fries
+user_46,Mumbai,lunch,indian,biryani,3,raita
+user_47,Mumbai,lunch,south indian,dosa,2,ice cream
+user_48,Bangalore,evening,indian,biryani,4,raita
+user_49,Delhi,evening,fastfood,burger,1,fries
+user_50,Delhi,night,south indian,dosa,2,ice cream
