@@ -13,6 +13,41 @@ If a user adds "Pizza", the system may recommend:
  
  • Coke  
  
- • Pasta  
+ • Pasta   
+ 
+**Files** 
 
+**orders.csv**
+
+Contains order information
+
+Example columns:
+
+order_id → unique order number
+
+user_id → customer id
+
+order_number → order sequence of user
+
+This tells which user placed which order.
+
+**products.csv**
+
+Contains product details
+
+Example columns:
+
+product_id
+
+product_name
+
+aisle_id
+
+department_id
+
+**order_products__prior.csv**
+
+This is the most important file.
+
+It tells which product was added in which order.
  
