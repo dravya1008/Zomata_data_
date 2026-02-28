@@ -1,0 +1,61 @@
+order_id,city,order_time,main_item,addon_item,combo,popularity_score
+1,Delhi,lunch,biryani,raita,biryani + raita,459
+2,Mumbai,lunch,burger,coke,burger + coke,337
+3,Bangalore,night,burger,coke,burger + coke,256
+4,Delhi,evening,burger,fries,burger + fries,78
+5,Bangalore,morning,pizza,garlic bread,pizza + garlic bread,273
+6,Delhi,lunch,pizza,coke,pizza + coke,133
+7,Delhi,morning,pizza,coke,pizza + coke,317
+8,Bangalore,night,dosa,filter coffee,dosa + filter coffee,89
+9,Mumbai,morning,burger,coke,burger + coke,199
+10,Mumbai,morning,burger,fries,burger + fries,74
+11,Delhi,morning,burger,fries,burger + fries,275
+12,Bangalore,lunch,pizza,garlic bread,pizza + garlic bread,71
+13,Bangalore,lunch,burger,fries,burger + fries,340
+14,Bangalore,evening,pizza,garlic bread,pizza + garlic bread,206
+15,Bangalore,evening,burger,fries,burger + fries,149
+16,Mumbai,morning,pizza,coke,pizza + coke,433
+17,Delhi,night,pizza,coke,pizza + coke,119
+18,Delhi,lunch,pizza,coke,pizza + coke,440
+19,Bangalore,evening,burger,fries,burger + fries,68
+20,Mumbai,morning,biryani,raita,biryani + raita,352
+21,Bangalore,morning,sandwich,coffee,sandwich + coffee,469
+22,Mumbai,morning,burger,coke,burger + coke,423
+23,Bangalore,morning,biryani,raita,biryani + raita,116
+24,Delhi,lunch,pizza,coke,pizza + coke,341
+25,Bangalore,night,burger,coke,burger + coke,431
+26,Bangalore,night,biryani,raita,biryani + raita,270
+27,Bangalore,evening,sandwich,coffee,sandwich + coffee,226
+28,Bangalore,night,pizza,coke,pizza + coke,383
+29,Delhi,night,burger,fries,burger + fries,260
+30,Bangalore,night,burger,coke,burger + coke,300
+31,Mumbai,lunch,sandwich,coffee,sandwich + coffee,207
+32,Bangalore,evening,burger,coke,burger + coke,427
+33,Bangalore,night,burger,fries,burger + fries,343
+34,Bangalore,evening,sandwich,coffee,sandwich + coffee,475
+35,Mumbai,morning,dosa,filter coffee,dosa + filter coffee,456
+36,Mumbai,morning,pizza,garlic bread,pizza + garlic bread,52
+37,Mumbai,morning,pizza,coke,pizza + coke,155
+38,Mumbai,evening,pizza,coke,pizza + coke,381
+39,Mumbai,night,sandwich,coffee,sandwich + coffee,133
+40,Delhi,morning,burger,coke,burger + coke,119
+41,Bangalore,evening,biryani,raita,biryani + raita,205
+42,Bangalore,lunch,biryani,raita,biryani + raita,168
+43,Delhi,evening,pizza,garlic bread,pizza + garlic bread,143
+44,Bangalore,evening,pizza,garlic bread,pizza + garlic bread,286
+45,Delhi,lunch,sandwich,coffee,sandwich + coffee,105
+46,Bangalore,evening,burger,fries,burger + fries,452
+47,Delhi,lunch,pizza,coke,pizza + coke,203
+48,Mumbai,evening,pizza,garlic bread,pizza + garlic bread,248
+49,Bangalore,evening,burger,coke,burger + coke,491
+50,Bangalore,evening,pizza,coke,pizza + coke,275
+51,Bangalore,night,pizza,coke,pizza + coke,224
+52,Mumbai,evening,burger,coke,burger + coke,122
+53,Bangalore,night,pizza,coke,pizza + coke,475
+54,Bangalore,morning,sandwich,coffee,sandwich + coffee,220
+55,Mumbai,evening,pizza,coke,pizza + coke,119
+56,Delhi,morning,burger,coke,burger + coke,287
+57,Bangalore,lunch,burger,coke,burger + coke,393
+58,Bangalore,morning,sandwich,coffee,sandwich + coffee,84
+59,Bangalore,morning,burger,fries,burger + fries,258
+60,Bangalore,morning,pizza,garlic bread,pizza + garlic bread,434
